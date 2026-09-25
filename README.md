@@ -2,9 +2,8 @@
 
 A Python and Power BI project for analysing and scouting outfield football players across Europe's Big 5 leagues: the Premier League, La Liga, Serie A, Bundesliga and Ligue 1.
 
-![Player Scouting Dashboard](images/dashboard.png)
-
 The project uses player performance data from the 2024/25 and 2025/26 seasons to identify player roles, find statistically similar players and compare estimated market value with actual market value.
+
 
 ## Project Overview
 
@@ -20,10 +19,14 @@ The project combines:
 
 The final Power BI dashboard contains four pages:
 
-1. Role Overview
+1. Player Scouting Overview
+![Page 1](images/Player-Scouting-Overview.png)
 2. Player Profiles
-3. Transfer Value Shortlist
+![Page 2](images/Player-Profiles.png)
+3. Value Shortlist
+![Page 3](images/Value-Shortlist.png)
 4. Similar Player Finder
+![Page 4](images/Similar-Players.png)
 
 ## Key Results
 
