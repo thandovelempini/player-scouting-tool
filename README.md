@@ -20,13 +20,13 @@ The project combines:
 The final Power BI dashboard contains four pages:
 
 1. Player Scouting Overview
-![Page 1](images/Player-Scouting-Overview.png)
+![Page 1](images/Player_Scouting_Overview.png)
 2. Player Profiles
-![Page 2](images/Player-Profiles.png)
+![Page 2](images/Player_Profiles.png)
 3. Value Shortlist
-![Page 3](images/Value-Shortlist.png)
+![Page 3](images/Value_Shortlist.png)
 4. Similar Player Finder
-![Page 4](images/Similar-Players.png)
+![Page 4](images/Similar_Players.png)
 
 ## Key Results
 
