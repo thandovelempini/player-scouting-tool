@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data (raw/processed are regenerable from the pipeline; not licensed to redistribute)
+data/raw/
+data/processed/
+
+data/powerbi/*.csv
+data/powerbi/*.xlsx
+
+models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.pbix.lock
