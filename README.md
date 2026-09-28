@@ -161,3 +161,16 @@ AI tools were used as a supporting resource during development for:
 * Improving documentation and project structure
 
 The data processing, analysis, modelling, dashboard development and final project decisions were reviewed and implemented by me.
+
+## Logo Credits
+
+The league logos used in the Power BI dashboard were sourced from the following websites:
+
+* Premier League - FootyLogos
+* La Liga — City PNG
+* Serie A — SeekLogo
+* Bundesliga — Vecteezy
+* Ligue 1 — Football Logos
+
+All league names, logos and trademarks belong to their respective owners. The logos are used in this project for dashboard visualisation and identification purposes.
+
