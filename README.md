@@ -26,7 +26,7 @@ The final Power BI dashboard contains four pages:
 3. Value Shortlist
 ![Page 3](images/Value_Shortlist.png)
 4. Similar Player Finder
-![Page 4](images/Similar_Players.png)
+![Page 4](images/Similar_Player_Finder.png)
 
 ## Key Results
 
