@@ -117,6 +117,7 @@ Several limitations were identified during the project:
 * Market value reflects market conditions and factors that are not captured by the model, such as reputation, potential and injury history.
 * Goalkeepers are excluded from the current clustering and similarity analysis.
 * Crosses can include set-piece deliveries, which may affect the classification of some midfielders.
+* Club badges depend on a hand-maintained name-to-URL mapping. Any team not in `BADGE_FILES` will export with no badge URL and show blank in the dashboard — check for blanks after adding a new season or league. Badge images come from [luukhopman/football-logos](https://github.com/luukhopman/football-logos), which has no explicit license — used here assuming that's the repo's intended purpose, but worth noting if you build on this project.
 
 ## Repository Structure
 
@@ -173,4 +174,10 @@ The league logos used in the Power BI dashboard were sourced from the following 
 * Ligue 1 — Football Logos
 
 All league names, logos and trademarks belong to their respective owners. The logos are used in this project for dashboard visualisation and identification purposes.
+
+## Licence
+
+The code in this repository is licensed under the MIT Licence. See the [LICENSE](LICENSE) file for details.
+
+Third-party datasets, images and other external resources remain subject to their respective licences and usage terms.
 
