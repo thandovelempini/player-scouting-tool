@@ -16,4 +16,5 @@ models/*.joblib
 .DS_Store
 Thumbs.db
 
-*.pbix.lock
+*.pbix.lockPlayer Profile.pbix
+Player Profile.pdf
